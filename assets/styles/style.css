@@ -1,0 +1,15 @@
+.profilepic {
+    width: 35%;
+}
+
+@media only screen and (max-width: 768px) {
+    .profilepic {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .profilepic {
+        width: 100%;
+    }
+}
